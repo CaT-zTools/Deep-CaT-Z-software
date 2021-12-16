@@ -1,1 +1,1 @@
-# Deep-CaT-z-software
+# Deep-CaT-z-Software
