@@ -1,12 +1,11 @@
 # DeepCaT-z_Software
 DeepCaT-z: Classification and Tracking in depth (z) using deep learning techniques - Software for real-time behavior recognition and automated closed-loop control of behavioral experiments, using depth videos
 
-The DeepCaT-z tool is an integrated computational solution where pre-trained deep learning models are applied for improved computational and task performances in the the real-time recognition of rodent’s behavior task. Besides the graphical user interface for real-time analysis of behavioral experiments, this package contains additional functions for preparing the data for the deep learning models and for the training itself.
+The DeepCaT-z tool is an integrated computational solution where pre-trained deep learning models are applied for improved computational and task performances. Besides the graphical user interface for real-time analysis of behavioral experiments, this package contains additional functions for preparing the data for the deep learning models and for the training itself.
 
 The non-compiled code is available in the "src" folder.
 
-A self-explanatory user guide (including installation, deep networks training and Arduino programming steps) is also available.
-
+**A self-explanatory user guide (including installation, deep networks training and Arduino programming steps) is also available.**
 
 If you use this software, please acknowledge our work: 
 “Gerós, A., Cruz, R., de Chaumont, F., Cardoso, J. S., & Aguiar, P. Deep learning-based system for real-time behavior recognition and automated closed-loop control of behavioral mazes (2022), doi: ”
