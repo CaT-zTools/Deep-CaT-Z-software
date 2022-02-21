@@ -5,7 +5,7 @@ The DeepCaT-z tool is an integrated computational solution where pre-trained dee
 
 **A self-explanatory user guide (including installation, deep networks training and Arduino programming steps) is also available.**
 
-The non-compiled code, together with the guide and other functions, are available in the "src" folder.
+The non-compiled code is available in the "src" folder.
 
 If you use this software, please acknowledge our work: 
 “Gerós, A., Cruz, R., de Chaumont, F., Cardoso, J. S., & Aguiar, P. Deep learning-based system for real-time behavior recognition and automated closed-loop control of behavioral mazes (2022), doi: ”
