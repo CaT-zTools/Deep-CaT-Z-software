@@ -3,7 +3,7 @@ DeepCaT-z: Classification and Tracking in depth (z) using deep learning techniqu
 
 The DeepCaT-z tool is an integrated computational solution where pre-trained deep learning models are applied for improved computational and task performances. Besides the graphical user interface for real-time analysis of behavioral experiments, this package contains additional functions for preparing the data for the deep learning models and for the training itself.
 
-**A self-explanatory user guide (including installation, deep networks training and Arduino programming steps) is also available.**
+**A self-explanatory user guide (including installation, deep networks training and Arduino programming steps) is also available, under the name "UserGuide_DeepCaT_z.pdf".**
 
 The non-compiled code is available in the "src" folder.
 
