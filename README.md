@@ -8,7 +8,7 @@ The DeepCaT-z tool is an integrated computational solution where pre-trained dee
 The non-compiled code is available in the "src" folder.
 
 If you use this software, please acknowledge our work: 
-“Gerós, A., Cruz, R., de Chaumont, F., Cardoso, J. S., & Aguiar, P. Deep learning-based system for real-time behavior recognition and automated closed-loop control of behavioral mazes (2022), doi: ”
+“Gerós, A., Cruz, R., de Chaumont, F., Cardoso, J. S., & Aguiar, P. Deep learning-based system for real-time behavior recognition and closed-loop control of behavioral mazes using depth sensing (2022), doi: ”
 
 Thank you for your interest in the DeepCaT-z software.
 For questions/comments, please send us an email to:
